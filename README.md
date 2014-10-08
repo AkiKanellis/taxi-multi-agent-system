@@ -33,7 +33,7 @@ These are the ways an agent can cooperate with another:
 Installation:
 =========================
 
-  1. Download Java 7 and up from here: http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html
+  1. Download Java 8 and up from here: http://www.oracle.com/technetwork/java/javase/downloads
   2. Download the `release` folder to an easily reachabe location, for example `C:\release`
   
 Execution
