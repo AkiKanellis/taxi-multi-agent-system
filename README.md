@@ -29,10 +29,15 @@ These are the ways an agent can cooperate with another:
 
   1. Informing another agent of the position of a client. This can happen when two agents from the same team are in the same block but the "conversation" can be heard in neighboring blocks by opposing agents.
   2. Creating more effective blocks for an opposing agent.
+
+Installation:
+=========================
+
+  1. Download Java 7 and up from here: http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html
+  2. Download the `release` folder to an easily reachabe location, for example `C:\release`
   
 Execution
 =======================
 
-  1. Download the `Release` folder
-  2. Open the CommandPrompt inside the folder
-  3. Type the command `java -jar Taxi_Agent.jar`
+  1. Open the `release` folder
+  3. Double click the executable
