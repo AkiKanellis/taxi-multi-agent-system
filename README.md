@@ -1,3 +1,8 @@
+# ⚠️ This project has been deprecated ⚠️
+
+This project contains some very old code that does not reflect my standards anymore. I will be leaving
+the project in an archived state in case it is still useful to someone.
+
 Mutli-Agent Taxi System
 =======================
 
